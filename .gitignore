@@ -4,3 +4,4 @@ data/processed/*_model/
 __pycache__/
 *.pyc
 logs/
+*:Zone.Identifier
