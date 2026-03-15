@@ -1,0 +1,6 @@
+data/raw/
+data/processed/*.h5ad
+data/processed/*_model/
+__pycache__/
+*.pyc
+logs/

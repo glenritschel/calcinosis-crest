@@ -1,0 +1,5 @@
+2026-03-15 11:32:32,992 enrichr128614243838048::[INFO    ] Run: LINCS_L1000_Chem_Pert_up 
+2026-03-15 11:32:32,992 enrichr128614243838048::[DEBUG   ] Enrichr service using library: LINCS_L1000_Chem_Pert_up
+2026-03-15 11:32:34,124 enrichr128614243838048::[INFO    ] Save enrichment results for LINCS_L1000_Chem_Pert_up 
+2026-03-15 11:32:34,398 enrichr128614243838048::[DEBUG   ] Generate figures
+2026-03-15 11:32:34,398 enrichr128614243838048::[INFO    ] Done.
