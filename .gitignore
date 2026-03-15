@@ -5,3 +5,7 @@ __pycache__/
 *.pyc
 logs/
 *:Zone.Identifier
+data/processed/per_sample/
+data/processed/*.h5ad
+data/raw/
+results/tables/de_leiden_wilcoxon.csv
